@@ -1,3 +1,13 @@
+/*
+ * Author: Sandor Laki, lakis@inf.elte.hu
+ *
+ * Description:
+ * Turning on a LED if the temperature is above a given threshold.
+ *
+ * Created on 2015
+ */
+
+
 const int LEDpin = 3;
 const int TEMPpin = A0;
 const float threshold = 25.0;

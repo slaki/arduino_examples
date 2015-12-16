@@ -1,3 +1,13 @@
+/*
+ * Author: Sandor Laki, lakis@inf.elte.hu
+ *
+ * Description:
+ * Measuring the distance using an ultrasonic distance sensor.
+ * This example is valid for sensors with 5 and 3 pins.
+ *
+ * Created on 2015
+ */
+
 const int LEDpin = 3;
 const int TEMPpin = A0;
 const float threshold = 25.0;

@@ -1,3 +1,13 @@
+/*
+ * Author: Sandor Laki, lakis@inf.elte.hu
+ *
+ * Description:
+ * Blinking LED example
+ *
+ * Created on 2015
+ */
+
+
 int pin = 3;
 
 void setup() {

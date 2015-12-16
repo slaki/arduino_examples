@@ -1,4 +1,13 @@
-/* This code requires the installation of RTIMULib-Arduino. You should copy the content of libraries to <your documents>/Arduino/libraries
+/* 
+ * Author: Sandor Laki, lakis@inf.elte.hu
+ *
+ * Description:
+ * Connecting an IMU MPU-9150 sensor to Arduino
+ *
+ * Created on 2015
+
+
+This code requires the installation of RTIMULib-Arduino. You should copy the content of libraries to <your documents>/Arduino/libraries
 The library is available on: https://github.com/richards-tech/RTIMULib-Arduino
 
 Settings for Drotek IMU MPU-9150:

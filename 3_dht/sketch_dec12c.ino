@@ -1,3 +1,12 @@
+/*
+ * Author: Sandor Laki, lakis@inf.elte.hu
+ *
+ * Description:
+ * Extending the previous example by reading a DHT sensor that enables us to measure temperature and humidity.
+ *
+ * Created on 2015
+ */
+
 const int LEDpin = 3;
 const int TEMPpin = A0;
 const float threshold = 25.0;

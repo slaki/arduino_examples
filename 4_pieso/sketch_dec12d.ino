@@ -1,3 +1,12 @@
+/*
+ * Author: Sandor Laki, lakis@inf.elte.hu
+ *
+ * Description:
+ * Making noise if the temperature is above a given treshold. This is an extension of the previous examples...
+ *
+ * Created on 2015
+ */
+
 const int LEDpin = 3;
 const int TEMPpin = A0;
 const float threshold = 25.0;
